@@ -1,0 +1,77 @@
+# Question 1:
+# Ekjon student's age text ("20") hisebe deya ache.
+# Eta integer e convert kore print koro.
+
+age = int("20")
+
+print(age)
+
+
+# Question 2:
+# Student-er CGPA text ("3.75") hisebe deya ache.
+# Eta float e convert kore print koro.
+
+cgpa = float("3.75")
+
+print(cgpa)
+
+
+# Question 3:
+# Ekta number 100 deya ache.
+# Eta string e convert kore print koro.
+
+number = str(100)
+
+print(number)
+
+
+# Question 4:
+# "25" ekta string.
+# Etake integer e convert kore 5 jog koro.
+
+number = "25"
+
+number = int(number)
+
+print(number + 5)
+
+
+# Question 5:
+# "10.5" ekta string.
+# Etake float e convert kore 2 diye gun koro.
+
+price = "10.5"
+
+price = float(price)
+
+print(price * 2)
+
+
+# Question 6:
+# 50 ke float e convert kore print koro.
+
+number = 50
+
+number = float(number)
+
+print(number)
+
+
+# Question 7:
+# 75.8 ke integer e convert kore print koro.
+
+number = 75.8
+
+number = int(number)
+
+print(number)
+
+
+# Question 8:
+# 500 ke string e convert kore tar type check koro.
+
+number = 500
+
+number = str(number)
+
+print(type(number))
